@@ -1,0 +1,4 @@
+2026-08-09 10:00:01 INFO server started
+2026-08-09 10:01:15 ERROR connection refused to db
+2026-08-09 10:02:03 INFO request handled
+2026-08-09 10:03:44 ERROR timeout waiting for upstream
